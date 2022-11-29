@@ -1,5 +1,5 @@
 import React from 'react'
-import{IoLogoLinkedin, IoLogoGithub} from 'react-icons/io'
+import {IoLogoLinkedin, IoLogoGithub} from 'react-icons/io'
 import './header.css'
 
 

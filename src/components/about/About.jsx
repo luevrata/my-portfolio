@@ -1,4 +1,6 @@
 import React from 'react'
+import me from '../../assets/me_portfolio.jpg'
+import './about.css'
 
 
 const About = () => {
@@ -7,19 +9,20 @@ const About = () => {
         <h2>About Me</h2>
         <div className="container about__container">
             <div className="about__me">
-                <div className="about__me-image">
-                    <img src="" alt="About Image"></img>
-                </div>
+                <img src={me} alt="About Image"></img>
             </div>
             <div className="about__content">
-                <div className="about__cards">
-                    <article className='about__card'>
-                        <h5>Experience</h5>
-                        <small> mew mew</small>
-                    </article>
-                </div>
+        
+                <p>
+                Motivated 3rd year student completing Bachelor of Computer Science 
+                degree at University of British Columbia with a Software development 
+                specialization. Experienced in Full Stack Web development with React. 
+                Passionate about contributing into innovative, disruptive, and impactful 
+                products.
+                </p>
+
+                <a href="#contact" className='btn btn-primary'>Let's Connect</a>
             </div>
-            
         </div>
     </section>
   )
