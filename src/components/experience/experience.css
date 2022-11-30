@@ -1,0 +1,36 @@
+.experience__container {
+    display: flex;
+}
+
+.experience__card {
+    background: var(--color-primary-variant);
+    border-radius: 0.5rem;
+    border: 1px solid transparent;
+    padding: 2rem;
+    color: var(--color-dark)
+
+}
+
+.experience__card ul {
+    margin:0; 
+    padding:0; 
+    list-style-position: inside; 
+    font-size:15px;
+    /* color: var(--color-white) */
+}
+
+
+
+.experience__card ul li::before{
+    content: "• "; 
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+
+}
+
+.experience__card-img {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 50px;
+}

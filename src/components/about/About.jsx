@@ -18,7 +18,7 @@ const About = () => {
                 degree at University of British Columbia with a Software development 
                 specialization. Experienced in Full Stack Web development with React. 
                 Passionate about contributing into innovative, disruptive, and impactful 
-                products.
+                Software.
                 </p>
 
                 <a href="#contact" className='btn btn-primary'>Let's Connect</a>
