@@ -22,6 +22,15 @@
     text-align: justify;
 }
 
+/* .button_layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    position: absolute;
+    bottom: 3rem;
+} */
+
 .about__content p {
     color: var(--color-dark);
 }
