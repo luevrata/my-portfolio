@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/http//https://luevrata.github.io/my-portfolio/static/css/main.f0f2271a.css",
-    "main.js": "/http//https://luevrata.github.io/my-portfolio/static/js/main.30e3da9a.js",
-    "static/media/Elizaveta_Firsova_Resume.pdf": "/http//https://luevrata.github.io/my-portfolio/static/media/Elizaveta_Firsova_Resume.700d30d2cfc1aea99ec8.pdf",
-    "static/media/me_portfolio.jpg": "/http//https://luevrata.github.io/my-portfolio/static/media/me_portfolio.8d2381d2bfd48263362c.jpg",
-    "static/media/project1.jpg": "/http//https://luevrata.github.io/my-portfolio/static/media/project1.f3281e0b53e71325d128.jpg",
-    "static/media/ubc.png": "/http//https://luevrata.github.io/my-portfolio/static/media/ubc.702e190bcb144f00ad5f.png",
-    "static/media/Workday-Emblem.png": "/http//https://luevrata.github.io/my-portfolio/static/media/Workday-Emblem.f29ac59f217feb9d49b8.png",
-    "index.html": "/http//https://luevrata.github.io/my-portfolio/index.html",
-    "main.f0f2271a.css.map": "/http//https://luevrata.github.io/my-portfolio/static/css/main.f0f2271a.css.map",
-    "main.30e3da9a.js.map": "/http//https://luevrata.github.io/my-portfolio/static/js/main.30e3da9a.js.map"
+    "main.css": "/luevrata.github.io/my-portfolio/static/css/main.3cd8aaba.css",
+    "main.js": "/luevrata.github.io/my-portfolio/static/js/main.d370ad72.js",
+    "static/media/Elizaveta_Firsova_Resume.pdf": "/luevrata.github.io/my-portfolio/static/media/Elizaveta_Firsova_Resume.700d30d2cfc1aea99ec8.pdf",
+    "static/media/me_portfolio.jpg": "/luevrata.github.io/my-portfolio/static/media/me_portfolio.8d2381d2bfd48263362c.jpg",
+    "static/media/project1.jpg": "/luevrata.github.io/my-portfolio/static/media/project1.f3281e0b53e71325d128.jpg",
+    "static/media/ubc.png": "/luevrata.github.io/my-portfolio/static/media/ubc.702e190bcb144f00ad5f.png",
+    "static/media/Workday-Emblem.png": "/luevrata.github.io/my-portfolio/static/media/Workday-Emblem.f29ac59f217feb9d49b8.png",
+    "index.html": "/luevrata.github.io/my-portfolio/index.html",
+    "main.3cd8aaba.css.map": "/luevrata.github.io/my-portfolio/static/css/main.3cd8aaba.css.map",
+    "main.d370ad72.js.map": "/luevrata.github.io/my-portfolio/static/js/main.d370ad72.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0f2271a.css",
-    "static/js/main.30e3da9a.js"
+    "static/css/main.3cd8aaba.css",
+    "static/js/main.d370ad72.js"
   ]
 }
