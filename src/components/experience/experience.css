@@ -65,5 +65,18 @@
     width: 50px;
     transition: var(--transition);
 }
+
+/* MEDIA QUERIES (MEDIUM DEVICES) */
+@media screen and (max-width: 1024px) {
+    .experience__container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+/* MEDIA QUERIES (SMALL DEVICES) */
+@media screen and (max-width: 600px) {
+
+}
     
 

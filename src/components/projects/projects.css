@@ -1,5 +1,6 @@
 .projects__container {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     gap: 0.5rem;
 }
 
@@ -17,10 +18,14 @@
     opacity: 1;
 }
 
+.projects__link {
+    text-decoration: underline;
+}
+
 .projects__card_content {
     
-    background-image: url('../../assets/mew.jpg');
-    /* min-height: 25rem; */
+    background-image: url('../../assets/project1.jpg');
+    background-size: 100%;
     border-radius: 0.5rem 0.5rem 0 0;
     transition: var(--transition);  
 }
@@ -66,4 +71,16 @@
     width: 50px;
     transition: var(--transition);
 }
-    
+
+/* MEDIA QUERIES (MEDIUM DEVICES) */
+@media screen and (max-width: 1024px) {
+    .projects__container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+/* MEDIA QUERIES (SMALL DEVICES) */
+@media screen and (max-width: 600px) {
+
+}

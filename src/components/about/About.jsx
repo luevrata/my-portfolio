@@ -20,10 +20,6 @@ const About = () => {
                 Passionate about contributing into innovative, disruptive, and impactful 
                 Software.
                 </p>
-
-                <div className="button_layout">
-                <a href="#contact" className='btn btn-primary'>Let's Connect</a>
-                </div>
             </div>
         </div>
     </section>
